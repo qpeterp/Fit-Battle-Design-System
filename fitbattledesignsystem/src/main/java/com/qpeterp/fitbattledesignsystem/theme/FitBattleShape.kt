@@ -36,7 +36,7 @@ class FitBattleShape(
     }
 
     override fun toString(): String {
-        return "Dodam shapes(small=$small, medium=$medium, large=$large)"
+        return "FitBattle shapes(small=$small, medium=$medium, large=$large)"
     }
 }
 
