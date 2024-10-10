@@ -50,6 +50,11 @@ android {
 }
 
 dependencies {
+    // image glide
+    implementation(libs.landscapist.glide.v233)
+    // image shimmer
+    implementation(libs.landscapist.placeholder)
+
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
