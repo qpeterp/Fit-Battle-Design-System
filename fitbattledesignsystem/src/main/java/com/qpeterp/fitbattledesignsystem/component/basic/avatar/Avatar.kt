@@ -1,4 +1,4 @@
-package com.qpeterp.fitbattledesignsystem.component.bacsic.avatar
+package com.qpeterp.fitbattledesignsystem.component.basic.avatar
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -24,7 +24,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import com.qpeterp.fitbattledesignsystem.R
-import com.qpeterp.fitbattledesignsystem.component.bacsic.surface
+import com.qpeterp.fitbattledesignsystem.component.basic.surface
 import com.qpeterp.fitbattledesignsystem.foundation.Text
 import com.qpeterp.fitbattledesignsystem.modifier.fitBattleClickable
 import com.qpeterp.fitbattledesignsystem.theme.FitBattleColor

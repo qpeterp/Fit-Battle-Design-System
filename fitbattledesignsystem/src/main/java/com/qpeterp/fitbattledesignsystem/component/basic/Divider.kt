@@ -1,4 +1,4 @@
-package com.qpeterp.fitbattledesignsystem.component.bacsic
+package com.qpeterp.fitbattledesignsystem.component.basic
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
